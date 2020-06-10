@@ -72,7 +72,7 @@ The following setup assumes installation with `ros2` branch of `gazebo_ros_pkgs`
 
 1. Make sure `git` is installed on your Ubuntu machine:
 
-        sudo apt install git
+        sudo apt install git python3-vcstool
 
 1. Create a directory for the colcon workspace and move into it:
 
